@@ -5,7 +5,8 @@ Based on the tutorial [GAN](https://medium.com/@devnag/generative-adversarial-ne
 
 To Run : `python3 train.py`
 
-Dependencies:
-*pytorch
-*cuda
-*numpy
+_Dependencies:_
+
+* pytorch
+* cuda
+* numpy
